@@ -105,9 +105,6 @@ def flood_simulation(num_threads):
 
 This script is intended **only for educational purposes** and **authorized network testing**. Unauthorized use of this script on systems you do not own or have explicit permission to test is illegal and unethical.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 ## Contributions
 
